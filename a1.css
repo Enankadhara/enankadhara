@@ -1,0 +1,14 @@
+body{
+    background-image: url(image.jpeg);background-size: 800px;
+}
+div{
+    border-color: black;
+}
+button{
+
+    color: rgb(26, 25, 24);
+}
+.a:hover{
+    color: blue;
+    text-decoration: overline;
+}
